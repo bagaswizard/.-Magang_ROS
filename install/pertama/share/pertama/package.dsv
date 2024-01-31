@@ -1,0 +1,8 @@
+source;share/pertama/hook/cmake_prefix_path.ps1
+source;share/pertama/hook/cmake_prefix_path.dsv
+source;share/pertama/hook/cmake_prefix_path.sh
+source;share/pertama/local_setup.bash
+source;share/pertama/local_setup.dsv
+source;share/pertama/local_setup.ps1
+source;share/pertama/local_setup.sh
+source;share/pertama/local_setup.zsh

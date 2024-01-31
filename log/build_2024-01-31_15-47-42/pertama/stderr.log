@@ -1,0 +1,10 @@
+[01m[K/home/bagas/ros2_workspace/src/pertama/src/subscriber.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/bagas/ros2_workspace/src/pertama/src/subscriber.cpp:29:10:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K}[m[K’ at end of input
+   29 | return 0;
+      |          [01;31m[K^[m[K
+[01m[K/home/bagas/ros2_workspace/src/pertama/src/subscriber.cpp:25:1:[m[K [01;36m[Knote: [m[Kto match this ‘[01m[K{[m[K’
+   25 | [01;36m[K{[m[K
+      | [01;36m[K^[m[K
+gmake[2]: *** [CMakeFiles/subscribe.dir/build.make:76: CMakeFiles/subscribe.dir/src/subscriber.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:193: CMakeFiles/subscribe.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

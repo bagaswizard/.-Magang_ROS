@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/bagas/ProgramRobot/ROS/PROG_Phynix_USB_ROS/install/usb_messages/include/**",
+        "/home/bagas/ProgramRobot/ROS/PROG_Phynix_USB_ROS/install/hexapod_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/bagas/ros2_workspace/src/test/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

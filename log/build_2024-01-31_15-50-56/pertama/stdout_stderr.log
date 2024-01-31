@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target subscribe[0m
+[ 33%] Built target hello
+[ 66%] Built target publish
+[100%] Built target subscribe
+-- Install configuration: ""
+-- Up-to-date: /home/bagas/ros2_workspace/install/pertama/lib/pertama/hello
+-- Up-to-date: /home/bagas/ros2_workspace/install/pertama/lib/pertama/publish
+-- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/ament_index/resource_index/package_run_dependencies/pertama
+-- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/ament_index/resource_index/parent_prefix_path/pertama
+-- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/environment/ament_prefix_path.sh
+-- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/environment/path.sh
+-- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/environment/path.dsv
+-- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/local_setup.bash
+-- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/local_setup.sh
+-- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/local_setup.zsh
+-- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/local_setup.dsv
+-- Installing: /home/bagas/ros2_workspace/install/pertama/share/pertama/package.dsv
+-- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/ament_index/resource_index/packages/pertama
+-- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/cmake/pertamaConfig.cmake
+-- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/cmake/pertamaConfig-version.cmake
+-- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/package.xml

@@ -1,0 +1,25 @@
+[35m[1mConsolidate compiler generated dependencies of target publish[0m
+[ 50%] Built target hello
+[ 75%] [32mBuilding CXX object CMakeFiles/publish.dir/src/publisher.cpp.o[0m
+[01m[K/home/bagas/ros2_workspace/src/pertama/src/publisher.cpp:[m[K In function ‘[01m[Kint main()[m[K’:
+[01m[K/home/bagas/ros2_workspace/src/pertama/src/publisher.cpp:6:17:[m[K [01;31m[Kerror: [m[Ktoo few arguments to function ‘[01m[Kvoid rclcpp::init(int, const char* const*, const rclcpp::InitOptions&, rclcpp::SignalHandlerOptions)[m[K’
+    6 |     [01;31m[Krclcpp::init()[m[K;
+      |     [01;31m[K~~~~~~~~~~~~^~[m[K
+In file included from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/logging.hpp:25[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/client.hpp:40[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/callback_group.hpp:24[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/any_executable.hpp:20[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/memory_strategy.hpp:25[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/memory_strategies.hpp:18[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executor_options.hpp:20[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executor.hpp:37[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors/multi_threaded_executor.hpp:25[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors.hpp:21[m[K,
+                 from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/rclcpp.hpp:155[m[K,
+                 from [01m[K/home/bagas/ros2_workspace/src/pertama/src/publisher.cpp:1[m[K:
+[01m[K/opt/ros/humble/include/rclcpp/rclcpp/utilities.hpp:75:1:[m[K [01;36m[Knote: [m[Kdeclared here
+   75 | [01;36m[Kinit[m[K(
+      | [01;36m[K^~~~[m[K
+gmake[2]: *** [CMakeFiles/publish.dir/build.make:76: CMakeFiles/publish.dir/src/publisher.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:165: CMakeFiles/publish.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

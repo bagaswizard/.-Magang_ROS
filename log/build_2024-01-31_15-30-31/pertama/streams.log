@@ -1,0 +1,15 @@
+[0.079s] Invoking command in '/home/bagas/ros2_workspace/build/pertama': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/bagas/ros2_workspace/build/pertama -- -j16 -l16
+[0.119s] [35m[1mConsolidate compiler generated dependencies of target publish[0m
+[0.131s] [ 50%] Built target hello
+[0.140s] [ 75%] [32mBuilding CXX object CMakeFiles/publish.dir/src/publisher.cpp.o[0m
+[2.112s] [01m[K/home/bagas/ros2_workspace/src/pertama/src/publisher.cpp:[m[K In function ‘[01m[Kint main()[m[K’:
+[2.112s] [01m[K/home/bagas/ros2_workspace/src/pertama/src/publisher.cpp:6:18:[m[K [01;31m[Kerror: [m[K‘[01m[Kargc[m[K’ was not declared in this scope
+[2.112s]     6 |     rclcpp::init([01;31m[Kargc[m[K, argv);
+[2.112s]       |                  [01;31m[K^~~~[m[K
+[2.115s] [01m[K/home/bagas/ros2_workspace/src/pertama/src/publisher.cpp:6:24:[m[K [01;31m[Kerror: [m[K‘[01m[Kargv[m[K’ was not declared in this scope
+[2.115s]     6 |     rclcpp::init(argc, [01;31m[Kargv[m[K);
+[2.115s]       |                        [01;31m[K^~~~[m[K
+[2.684s] gmake[2]: *** [CMakeFiles/publish.dir/build.make:76: CMakeFiles/publish.dir/src/publisher.cpp.o] Error 1
+[2.684s] gmake[1]: *** [CMakeFiles/Makefile2:165: CMakeFiles/publish.dir/all] Error 2
+[2.684s] gmake: *** [Makefile:146: all] Error 2
+[2.687s] Invoked command in '/home/bagas/ros2_workspace/build/pertama' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/bagas/ros2_workspace/build/pertama -- -j16 -l16

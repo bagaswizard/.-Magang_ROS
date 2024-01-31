@@ -1,0 +1,27 @@
+[0.085s] Invoking command in '/home/bagas/ros2_workspace/build/pertama': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/bagas/ros2_workspace/build/pertama -- -j16 -l16
+[0.126s] [35m[1mConsolidate compiler generated dependencies of target publish[0m
+[0.136s] [ 50%] Built target hello
+[0.147s] [ 75%] [32mBuilding CXX object CMakeFiles/publish.dir/src/publisher.cpp.o[0m
+[1.998s] [01m[K/home/bagas/ros2_workspace/src/pertama/src/publisher.cpp:[m[K In function ‘[01m[Kint main()[m[K’:
+[1.998s] [01m[K/home/bagas/ros2_workspace/src/pertama/src/publisher.cpp:6:17:[m[K [01;31m[Kerror: [m[Ktoo few arguments to function ‘[01m[Kvoid rclcpp::init(int, const char* const*, const rclcpp::InitOptions&, rclcpp::SignalHandlerOptions)[m[K’
+[1.998s]     6 |     [01;31m[Krclcpp::init()[m[K;
+[1.998s]       |     [01;31m[K~~~~~~~~~~~~^~[m[K
+[1.998s] In file included from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/logging.hpp:25[m[K,
+[1.998s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/client.hpp:40[m[K,
+[1.998s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/callback_group.hpp:24[m[K,
+[1.998s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/any_executable.hpp:20[m[K,
+[1.998s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/memory_strategy.hpp:25[m[K,
+[1.998s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/memory_strategies.hpp:18[m[K,
+[1.998s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executor_options.hpp:20[m[K,
+[1.999s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executor.hpp:37[m[K,
+[1.999s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors/multi_threaded_executor.hpp:25[m[K,
+[1.999s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/executors.hpp:21[m[K,
+[1.999s]                  from [01m[K/opt/ros/humble/include/rclcpp/rclcpp/rclcpp.hpp:155[m[K,
+[1.999s]                  from [01m[K/home/bagas/ros2_workspace/src/pertama/src/publisher.cpp:1[m[K:
+[1.999s] [01m[K/opt/ros/humble/include/rclcpp/rclcpp/utilities.hpp:75:1:[m[K [01;36m[Knote: [m[Kdeclared here
+[1.999s]    75 | [01;36m[Kinit[m[K(
+[1.999s]       | [01;36m[K^~~~[m[K
+[2.557s] gmake[2]: *** [CMakeFiles/publish.dir/build.make:76: CMakeFiles/publish.dir/src/publisher.cpp.o] Error 1
+[2.557s] gmake[1]: *** [CMakeFiles/Makefile2:165: CMakeFiles/publish.dir/all] Error 2
+[2.557s] gmake: *** [Makefile:146: all] Error 2
+[2.560s] Invoked command in '/home/bagas/ros2_workspace/build/pertama' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/bagas/ros2_workspace/build/pertama -- -j16 -l16

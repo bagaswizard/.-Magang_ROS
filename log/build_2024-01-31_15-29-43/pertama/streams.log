@@ -1,0 +1,28 @@
+[0.077s] Invoking command in '/home/bagas/ros2_workspace/build/pertama': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/bagas/ros2_workspace/build/pertama -- -j16 -l16
+[0.119s] [35m[1mConsolidate compiler generated dependencies of target publish[0m
+[0.129s] [ 50%] Built target hello
+[0.140s] [ 75%] [32mBuilding CXX object CMakeFiles/publish.dir/src/publisher.cpp.o[0m
+[3.229s] [100%] [32m[1mLinking CXX executable publish[0m
+[3.357s] [100%] Built target publish
+[3.369s] Invoked command in '/home/bagas/ros2_workspace/build/pertama' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/bagas/ros2_workspace/build/pertama -- -j16 -l16
+[3.408s] Invoking command in '/home/bagas/ros2_workspace/build/pertama': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/bagas/ros2_workspace/build/pertama
+[3.415s] -- Install configuration: ""
+[3.415s] -- Up-to-date: /home/bagas/ros2_workspace/install/pertama/lib/pertama/hello
+[3.416s] -- Installing: /home/bagas/ros2_workspace/install/pertama/lib/pertama/publish
+[3.417s] -- Set runtime path of "/home/bagas/ros2_workspace/install/pertama/lib/pertama/publish" to ""
+[3.417s] -- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/ament_index/resource_index/package_run_dependencies/pertama
+[3.417s] -- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/ament_index/resource_index/parent_prefix_path/pertama
+[3.417s] -- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/environment/ament_prefix_path.sh
+[3.417s] -- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/environment/ament_prefix_path.dsv
+[3.418s] -- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/environment/path.sh
+[3.418s] -- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/environment/path.dsv
+[3.418s] -- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/local_setup.bash
+[3.418s] -- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/local_setup.sh
+[3.418s] -- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/local_setup.zsh
+[3.418s] -- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/local_setup.dsv
+[3.418s] -- Installing: /home/bagas/ros2_workspace/install/pertama/share/pertama/package.dsv
+[3.418s] -- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/ament_index/resource_index/packages/pertama
+[3.418s] -- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/cmake/pertamaConfig.cmake
+[3.418s] -- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/cmake/pertamaConfig-version.cmake
+[3.418s] -- Up-to-date: /home/bagas/ros2_workspace/install/pertama/share/pertama/package.xml
+[3.420s] Invoked command in '/home/bagas/ros2_workspace/build/pertama' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/bagas/ros2_workspace/build/pertama

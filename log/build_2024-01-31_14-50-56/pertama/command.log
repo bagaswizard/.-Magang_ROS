@@ -1,0 +1,1 @@
+Invoking command in '/home/bagas/ros2_workspace/build/pertama': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/bagas/ros2_workspace/src/pertama -DCMAKE_INSTALL_PREFIX=/home/bagas/ros2_workspace/install/pertama

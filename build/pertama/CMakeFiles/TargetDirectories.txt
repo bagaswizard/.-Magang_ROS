@@ -1,0 +1,12 @@
+/home/bagas/ros2_workspace/build/pertama/CMakeFiles/uninstall.dir
+/home/bagas/ros2_workspace/build/pertama/CMakeFiles/pertama_uninstall.dir
+/home/bagas/ros2_workspace/build/pertama/CMakeFiles/hello.dir
+/home/bagas/ros2_workspace/build/pertama/CMakeFiles/publish.dir
+/home/bagas/ros2_workspace/build/pertama/CMakeFiles/subscribe.dir
+/home/bagas/ros2_workspace/build/pertama/CMakeFiles/test.dir
+/home/bagas/ros2_workspace/build/pertama/CMakeFiles/edit_cache.dir
+/home/bagas/ros2_workspace/build/pertama/CMakeFiles/rebuild_cache.dir
+/home/bagas/ros2_workspace/build/pertama/CMakeFiles/list_install_components.dir
+/home/bagas/ros2_workspace/build/pertama/CMakeFiles/install.dir
+/home/bagas/ros2_workspace/build/pertama/CMakeFiles/install/local.dir
+/home/bagas/ros2_workspace/build/pertama/CMakeFiles/install/strip.dir

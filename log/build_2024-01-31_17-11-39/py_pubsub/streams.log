@@ -1,0 +1,40 @@
+[0.934s] Invoking command in '/home/bagas/ros2_workspace/src/py_pubsub': PYTHONPATH=/home/bagas/ros2_workspace/build/py_pubsub/prefix_override:/home/bagas/ros2_workspace/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/bagas/ros2_workspace/build/py_pubsub/build install --record /home/bagas/ros2_workspace/build/py_pubsub/install.log --single-version-externally-managed
+[1.190s] running egg_info
+[1.190s] creating ../../build/py_pubsub/py_pubsub.egg-info
+[1.191s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[1.191s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[1.191s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[1.191s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[1.191s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[1.191s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.193s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.193s] adding license file 'LICENSE'
+[1.194s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.194s] running build
+[1.194s] running build_py
+[1.194s] creating /home/bagas/ros2_workspace/build/py_pubsub/build
+[1.194s] creating /home/bagas/ros2_workspace/build/py_pubsub/build/lib
+[1.195s] creating /home/bagas/ros2_workspace/build/py_pubsub/build/lib/py_pubsub
+[1.195s] copying py_pubsub/__init__.py -> /home/bagas/ros2_workspace/build/py_pubsub/build/lib/py_pubsub
+[1.195s] copying py_pubsub/subscriber.py -> /home/bagas/ros2_workspace/build/py_pubsub/build/lib/py_pubsub
+[1.203s] running install
+[1.203s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.203s]   warnings.warn(
+[1.203s] running install_lib
+[1.204s] creating /home/bagas/ros2_workspace/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[1.204s] copying /home/bagas/ros2_workspace/build/py_pubsub/build/lib/py_pubsub/__init__.py -> /home/bagas/ros2_workspace/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[1.205s] copying /home/bagas/ros2_workspace/build/py_pubsub/build/lib/py_pubsub/subscriber.py -> /home/bagas/ros2_workspace/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[1.205s] byte-compiling /home/bagas/ros2_workspace/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/__init__.py to __init__.cpython-310.pyc
+[1.205s] byte-compiling /home/bagas/ros2_workspace/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/subscriber.py to subscriber.cpython-310.pyc
+[1.206s] running install_data
+[1.207s] creating /home/bagas/ros2_workspace/install/py_pubsub/share/ament_index
+[1.207s] creating /home/bagas/ros2_workspace/install/py_pubsub/share/ament_index/resource_index
+[1.207s] creating /home/bagas/ros2_workspace/install/py_pubsub/share/ament_index/resource_index/packages
+[1.207s] copying resource/py_pubsub -> /home/bagas/ros2_workspace/install/py_pubsub/share/ament_index/resource_index/packages
+[1.207s] copying package.xml -> /home/bagas/ros2_workspace/install/py_pubsub/share/py_pubsub
+[1.207s] running install_egg_info
+[1.210s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/bagas/ros2_workspace/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info
+[1.211s] running install_scripts
+[1.231s] Installing listener script to /home/bagas/ros2_workspace/install/py_pubsub/lib/py_pubsub
+[1.231s] writing list of installed files to '/home/bagas/ros2_workspace/build/py_pubsub/install.log'
+[1.265s] Invoked command in '/home/bagas/ros2_workspace/src/py_pubsub' returned '0': PYTHONPATH=/home/bagas/ros2_workspace/build/py_pubsub/prefix_override:/home/bagas/ros2_workspace/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/bagas/ros2_workspace/build/py_pubsub/build install --record /home/bagas/ros2_workspace/build/py_pubsub/install.log --single-version-externally-managed
